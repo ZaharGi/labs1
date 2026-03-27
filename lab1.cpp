@@ -2,7 +2,7 @@
 using namespace std; //
 
 double ploshad(double a, double b, double h) { //
-    return (a + b) * h / 2;
+    return (a + b) * h / 2; //
 }
 
 double perimetr(double a, double b, double c, double d) {
