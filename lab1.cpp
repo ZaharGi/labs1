@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-double ploshad(double a, double b, double h) {
+double ploshad(double a, double b, double h) { //
     return (a + b) * h / 2;
 }
 
