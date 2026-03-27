@@ -1,6 +1,4 @@
 #include <iostream>
-#include <cmath>
-
 using namespace std;
 
 double ploshad(double a, double b, double h) {
